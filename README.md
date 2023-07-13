@@ -6,7 +6,7 @@ This repository contains an implementation of CycleGAN using PyTorch, which allo
 
 <figure>
   <img src="https://github.com/erictom97/CycleGAN-MONET/assets/40288848/95d88ebe-da55-42ea-9b3d-889b6ee029ac" 
-    title="Optional title" />
+    title="\nOptional title" />
   <figcaption>Optional title</figcaption>
 </figure>
 
