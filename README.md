@@ -31,9 +31,11 @@ In the Code, `A` represents the MONET-style paintings and `B` represents the rea
 The results of the CycleGAN model depend on various factors such as the dataset, training parameters, and model architecture. It is recommended to experiment with different configurations and hyperparameters to achieve the desired results.
 
 Here are some example results obtained using this implementation:
+
 Result:
 
 ![Samples](https://github.com/erictom97/CycleGAN-MONET/assets/40288848/d7760c58-87a3-4b3e-929a-388795e63500)
+
 Test Image Lex Fridman:
 
 ![LEX](https://github.com/erictom97/CycleGAN-MONET/assets/40288848/6f07c6cd-5a48-4af5-ab7f-892579179bbf)
