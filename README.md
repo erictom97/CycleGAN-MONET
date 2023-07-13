@@ -42,5 +42,7 @@ Test Image Lex Fridman:
 
 ## References:
 Dataset:https://www.kaggle.com/competitions/gan-getting-started
+
 Code: https://www.kaggle.com/code/songseungwon/cyclegan-tutorial-from-scratch-monet-to-photo
+
 Research Paper: https://arxiv.org/pdf/1703.10593.pdf
