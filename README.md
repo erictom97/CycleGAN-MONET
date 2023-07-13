@@ -5,7 +5,7 @@
 This repository contains an implementation of CycleGAN using PyTorch, which allows you to convert images between two domains: MONET-style paintings and real photos. CycleGAN is a popular unsupervised image-to-image translation model that learns the mapping between two domains without paired training data. It has been widely used for various image translation tasks, such as style transfer, domain adaptation, and object transfiguration.
 
 <figure>
-  <img src="[https://github.com/erictom97/CycleGAN-MONET/assets/40288848/95d88ebe-da55-42ea-9b3d-889b6ee029ac]"  title="Optional title" />
+  <img src="[https://github.com/erictom97/CycleGAN-MONET/assets/40288848/95d88ebe-da55-42ea-9b3d-889b6ee029ac]" />
   <figcaption>Optional title</figcaption>
 </figure>
 
